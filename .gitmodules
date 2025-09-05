@@ -1,3 +1,6 @@
 [submodule "reflection-journal"]
 	path = reflection-journal
 	url = https://github.com/Haon19/Reflection_Journal
+[submodule "mobiledev_group6_autumn2025"]
+	path = mobiledev_group6_autumn2025
+	url = https://github.com/hyoneekim/mobiledev_group6_autumn2025
