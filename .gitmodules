@@ -4,3 +4,6 @@
 [submodule "mobiledev_group6_autumn2025"]
 	path = mobiledev_group6_autumn2025
 	url = https://github.com/hyoneekim/mobiledev_group6_autumn2025
+[submodule "project/mobiledev_group6_autumn2025"]
+	path = project/mobiledev_group6_autumn2025
+	url = https://github.com/hyoneekim/mobiledev_group6_autumn2025
