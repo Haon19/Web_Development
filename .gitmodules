@@ -7,3 +7,15 @@
 [submodule "project/mobiledev_group6_autumn2025"]
 	path = project/mobiledev_group6_autumn2025
 	url = https://github.com/hyoneekim/mobiledev_group6_autumn2025
+[submodule "collaborative-project-group6"]
+	path = collaborative-project-group6
+	url = https://github.com/hyoneekim/collaborative-project-group6
+[submodule "Dev/week4/collaborative-project-group6"]
+	path = Dev/week4/collaborative-project-group6
+	url = https://github.com/hyoneekim/collaborative-project-group6
+[submodule "Dev/week4/Marathon_one"]
+	path = Dev/week4/Marathon_one
+	url = https://github.com/Haon19/Marathon_one.git
+[submodule "Dev/week4/group6-cm1"]
+	path = Dev/week4/group6-cm1
+	url = https://github.com/Haon19/group6-cm1
